@@ -90,7 +90,8 @@ i {
 }
 
 li {text-align:left; font-size:18px; padding:2px 0 0 0; color:black;}
-body {background-image: url("http://i1064.photobucket.com/albums/u367/wjbritton1/starry-sky-1654074_zpsu4ryw97d.jpg");
+body {
+    background-image: url("photos/sky.jpg");
     background-color: #cccccc;
     padding: 25px;
     
