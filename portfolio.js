@@ -1,8 +1,3 @@
-$("#section1").click(function() {
-    $('html, body').animate({
-        scrollTop: $("#elementtoScrollToID").offset().top
-    }, 2000);
-});
 
   $(document).ready(function() {
     $('#contact_form').bootstrapValidator({
